@@ -65,9 +65,8 @@
     - Retiros Ediciones por Local
     - Generación p/Canales Externos (Territ.)
     - Facturación de Entregas
-    - Ingreso Devoluciones (incl. gener. NC)
-    - Ajuste Cuenta Corriente
-    - Registro de Cobros (inc. ajuste CC)
+    - Ingreso Devoluciones (incluye generación NC)
+    - Registro de Cobros (incluye generación CC)
     - Registro Pagos a Proveedores
     - Movimientos de Proveedores
     - Movimientos de Clientes 
@@ -109,7 +108,7 @@
 
     Todos estos elementos y actividades estarán relacionados únicamente a los ítems referidos en la presente propuesta (ver en Descripción del Servicio).
 
-    `NOTA: El código fuente del software se refiere al específicamente desarrollado por SCIO para el presente proyecto y excluye al código fuente de las librerías generales comunes, propias o de terceros, que serán utilizadas en la elaboración del sistema.`
+    `NOTA: Por “código Fuente” del software se refiere aquí al específicamente desarrollado por SCIO para el presente proyecto y excluye al código fuente de las librerías generales comunes, propias o de terceros, que serán utilizadas en la elaboración del sistema.`
 
     ​
 
@@ -123,9 +122,9 @@
 
     El servicio propuesto NO incluye: 
 
-    - El desarrollo decualquier interface entre el sistema aquí propuesto y cualquier otro sistema del Cliente no contemplado en el listado de características (ver Descripción del Servicio)..
+    - El desarrollo de cualquier interfase entre el sistema aquí propuesto y cualquier otro sistema del Cliente no contemplado en el listado de características (ver Características Generales del Sistema)..
     - La provisión de ningún tipo de equipamiento asociado a la implementación del sistema.
-    - La consultoría encualquier cuestión, relativa al desarrollo referido o a cualquier otro desarrollo, ajena a las específicamente nombradas en la presente propuesta (ver Descripción del Servicio).
+    - La consultoría en cualquier cuestión, relativa al desarrollo referido o a cualquier otro desarrollo, ajena a las específicamente nombradas en la presente propuesta (ver Descripción del Servicio).
 
     ​
 
@@ -161,16 +160,15 @@
 
 8. **PRECIO Y FORMA DE PAGO**
 
-    El precio total para el servicio propuesto es de pesos doscientos doce mil ($212.000). Este valor no incluyen el impuesto del IVA,en caso de corresponder.
+    El precio total para el servicio propuesto es de pesos doscientos catorce mil ($214.000). Este valor no incluyen el impuesto del IVA, en caso de corresponder.
 
     La forma de pago se establece en tres cuotas a aplicarse de la siguente manera:
 
     - Un 25% al momento de la firma del contrato;
-    - Un 50% al momento de la finalización de la implementación y puesta en marcha del sistema;
-    - Un 25% al momento de la finalización de la migración y entrega de la documentación asociada.
+    - Un 60% al momento de la finalización de la implementación y puesta en marcha del sistema;
+    - Un 15% al momento de la finalización de la migración y entrega de la documentación asociada.
 
     ​
-
 
 
 ***
