@@ -1,0 +1,8 @@
+CONSULTAS:
+==========
+
+1) Un proveedor RespInsc con factura M, se retiene?? cómo se actùa??
+2) Caso de un remito pagado parcialmente por corte, que pasa en el proximo corte??? Puede pasarse todo al proximo corte??
+3) Porque veo que el EXENTO tien la marca de que aplica IVA???
+4) Las fechas impactan de alguna manera en el trabajo con los Proveedores (feriados, sab., dom.)?
+5) 
