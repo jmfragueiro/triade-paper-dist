@@ -1,0 +1,13 @@
+CONSULTAS:
+==========
+
+0) Todavia tengo proveedores con CUIT duplicado: 33598027639, 33624938289
+
+PRIMERAMENTE HACER UN ESCENARIO JUNTOS DE LOS VALORE DE INGRESO DE UNA PUBLICACION
+1) Como juega el Tipo de Distribución en las publicaciones???
+2) A qué nivel coviene definir cuándo una publicación es en Consignación (Titulo, Edición o Publicación)???
+3) Se usa el Código de Barras para algo???
+4) Qué es el número de reposición?? se usa??
+5) Qué es el porcentaje de devolución máximo??? se usa??
+6) SubCuenta??? se usa??
+7) Edición Asociada?? se usa??

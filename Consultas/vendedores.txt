@@ -1,0 +1,21 @@
+CONSULTAS:
+==========
+Datos:
+1) Que es el COEFICIENTE del vendedor (Cliente campo VendedorCoeficiente -en gral es 10,00 y no veo donde se carga-)???
+2) Que significa el "no facturar a vendedores" (campo VendedorNoFacturar)
+3) Para que se usa el campo VendedorCUITOk??
+4) Existen 498 vencedores (clientes) en el sistema, pero solo 230 tienen movimientos en el 2017: que cargamos?
+
+Sistema:
+4) Que son los clientes tipo PARADA y tipo REPARTO y tipo PARADA-REPARTO??
+5) Cómo y para qué se usa el tema de las Entregas?
+6) Verificar como funciona el tema de los Cargos??? C.FijoxDia??? Que "tipos/modalidades" de Cargo hay?? 
+7) Se usa la Zona en vendedores, para que?
+8) Se usa la "Caja Asociada", para qué?
+9) En una factura no sale el nro de reposición: significa que NO hay posibilidad de entregar dos reposiciones diferentes 
+   de un mismo titulo en una factura (dado que podrían tener dif precio)?
+11) Se hacen entregas manuales???   
+12) Hay posibilidades de que a un titulo se le cambie algun parámetro (precio, fecha devol) durante la entrega??   
+13) Emite Planilla de Devolución??
+
+14) Como se implementa la devolucion al proveedor (desde el sistema? se genera inmediatamente comprobante?, etc.)
